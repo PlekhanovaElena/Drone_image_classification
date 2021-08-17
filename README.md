@@ -5,10 +5,10 @@ Landcover classification of drone imagery (RGB and Multispectral) using Random f
 
 In this repository I only store the code. The data is taken from [Hilden](https://arcticdrones.org/) collection, which will be published soon.
 The code is organized into 4 Jupyter notebooks and one Python script with functions:
-* 0. - preprocessing of the images. Filling the gaps and resizing the images if needed.
-* 1. - showing an example of landcover classification on one image
-* 2. - classifying all the prepared in script 0. multispectral imagery
-* 3. - classifying all the prepared in script 0. RGB imagery
+* 0._ - preprocessing of the images. Filling the gaps and resizing the images if needed.
+* 1._ - showing an example of landcover classification on one image
+* 2._ - classifying all the prepared in script 0. multispectral imagery
+* 3._ - classifying all the prepared in script 0. RGB imagery
 * myfunctions - all the custom functions I used
 
 ## Visualization
