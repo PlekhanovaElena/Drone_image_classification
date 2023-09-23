@@ -3,7 +3,7 @@ Landcover classification of drone UAV imagery (RGB and Multispectral) using Rand
 
 ## Description
 
-In this repository I only store the code. The data is taken from [Hilden](https://arcticdrones.org/) collection, which is accessible by contacting the Hilden Network.
+In this repository I only store the code (Python). The data is taken from [Hilden](https://arcticdrones.org/) collection, which is accessible by contacting the Hilden Network.
 
 The code is organized into 4 Jupyter notebooks and one Python script with functions:
 * 0._ - preprocessing of the images. Filling the gaps and resizing the images if needed.
